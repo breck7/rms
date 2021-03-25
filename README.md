@@ -1,6 +1,11 @@
 
 Thanks for being interested in reality and truth!
 
+Here is a Google doc of organizations using free software and working on behalf of women, trans, minorities, and children:
+https://docs.google.com/spreadsheets/d/1i4zyXlHvWOcnI34FPoO_F0eJmIQMiSNcBgiOH8KSmXE/edit?usp=sharing
+
+PRs adding any you love are welcome!
+
 I am not accepting signatures, but I would love PRs that add 3 types of things:
 
 1. Better writing/editing. My writing could ALWAYS be shorter and better.
@@ -16,3 +21,5 @@ I am not accepting signatures, but I would love PRs that add 3 types of things:
 ## New Organizations supporting #IntellectualFreedom
 
 - https://sci-hub.do/ please support my personal hero, <a href="https://en.wikipedia.org/wiki/Alexandra_Elbakyan">Alexandra Elbakyan</a>
+
+❤️❤️❤️ Public Domain ❤️❤️❤️
